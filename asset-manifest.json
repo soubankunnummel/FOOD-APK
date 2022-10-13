@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FOOD-APK/static/css/main.607a4520.css",
+    "main.js": "/FOOD-APK/static/js/main.6c0255fa.js",
+    "static/js/787.ab062c3f.chunk.js": "/FOOD-APK/static/js/787.ab062c3f.chunk.js",
+    "index.html": "/FOOD-APK/index.html",
+    "main.607a4520.css.map": "/FOOD-APK/static/css/main.607a4520.css.map",
+    "main.6c0255fa.js.map": "/FOOD-APK/static/js/main.6c0255fa.js.map",
+    "787.ab062c3f.chunk.js.map": "/FOOD-APK/static/js/787.ab062c3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607a4520.css",
+    "static/js/main.6c0255fa.js"
+  ]
+}
